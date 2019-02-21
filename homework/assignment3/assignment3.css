@@ -1,0 +1,98 @@
+<CSS>
+
+  header
+    <title>Caroline Pease</title>
+    <meta name="description" content="Caroline. Nineteen years old. Sophomore at the University of Miami. Major is Public Relations with a minorin Broadcast Journalism.">
+  <meta name="author" content="Caroline Pease">
+    </head>
+    <!-- begin body -->
+    body
+    {background: pink;
+    font-family: helvetica,arial,sans-serif;
+  font-size: 12pt}
+
+
+<center>
+      <H1>
+        Caroline Pease
+      </H1>
+      <H2>
+      <address>
+      245 Cedar Avenue,Hewlett Bay Park, New York, 11557
+      </address>
+      (516) 547-4679
+      </H2>
+</center>
+
+    <b> About Me </b>
+
+        <p>
+        p {
+  font-family:"Times New Roman", Times, serif;
+}
+        <ul>
+          <li> Sophomore at the University of Miami</li>
+          <li> Public Relations Major </li>
+          <li> Broadcast Journalism Minor </li>
+        </ul>
+        </p>
+        <p>
+          <img width="10%" src="images/atomprofpic.jpg"/>
+        </p>
+      <H4>
+        Work Experience
+      </H4>
+      <ul>
+      <p>
+      <li>  Lifegaurd at The Sands Beach Club <i> 2016-2017 </i> </li>
+      </p>
+      <p>
+      </ul>
+      <ul> <li> Pool Lifeguard </li>
+      <li> Swim Instructor </li>
+      </ul>
+      </p>
+      <p>
+      p.a {
+  font: 15px arial, sans-serif;
+}
+      <li><b> Hobbies </b></li>
+      </p>
+      <ul>
+      <li> Fashion </li>
+      <li> Travelling </li>
+      <li> Dance </li>
+      <li> Art </li>
+      </ul>
+
+      <table border="10" width="90%">
+            <TR>
+                <TD>
+                  <B>
+                  Education
+                  </B>
+                </TD>
+                <TD>
+                  <B>Starting Year</B>
+                </TD>
+                <TD> <B>Graduating Year</B> </TD>
+            </TR>
+            <TR>
+                <TD>G.W. Hewlett High School</TD>
+                <TD> <I> 2013 </I></TD>
+                <TD> <I> 2017 </I> </TD>
+            </TR>
+            <TR>
+                <TD>University of Miami</TD>
+                <TD> <I> 2017 </I></TD>
+                <TD> <I> 2021 </I>  </TD>
+            </TR>
+              </table>
+              <p>
+             <a href="https://www.thesandsatlanticbeach.com./"><img width="10%" src="images/sands.jpg"/></a>
+              </p>
+              <p>
+          <a href="https://vsco.co/carolineleighpease/images/1"><img width="10%" src="images/vsco.jpg"/></a>
+            </p>
+      </body>
+      </html>

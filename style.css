@@ -1,0 +1,55 @@
+<head>
+<style>
+body{
+
+	}background: white; font-family: , helvetica, arial, sans-serif; font-size: 16pt; color: black;}
+
+
+	font-size: 12pt;
+
+	color: pink;
+
+.intro
+  background-color:white;
+}
+ h1
+	 Caroline Pease
+	font-size: 12pt;
+	font-family: , Helvetica
+
+}
+p.hometown
+  background-color: white;
+}
+ #address h2
+ 		245 Cedar Ave, Hewlett, NY, 11557
+	font-size: 12pt;
+	margin-left: 2px;
+	font-family: Arial
+}
+
+#telephone  5165474679
+	font-size: 12pt;
+	margin-left: 2px;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#images img images/atomprofpic.jpg
+	width: 100px;
+	order-radius: 4px;
+  padding: 5px;
+	img=src; atomprofpic.jpg
+	border: solid;
+}
+
+#link a:link
+a href= https://www.thesandsatlanticbeach.com.
+a:hover
+color: pink;
+
+#link a:link
+	 a href="https://www.vsco.com/carolineleighpease
+	 a:hover
+  color: pink;
+
+}
